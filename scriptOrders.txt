@@ -1,3 +1,4 @@
+// Hello, this is a test!
 ///$tab Main
 // SET ThousandSep=',';
 // SET DecimalSep='.';
